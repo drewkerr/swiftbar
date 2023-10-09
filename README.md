@@ -1,2 +1,1 @@
-# swiftbar
-SwiftBar/BitBar/xbar plugins I have written
+Some plugins I have written for [SwiftBar](https://swiftbar.app)/BitBar/[xbar](https://xbarapp.com), to put things in the macOS menu bar.
